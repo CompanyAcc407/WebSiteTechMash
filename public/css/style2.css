@@ -1,0 +1,29 @@
+.wrap-cat__title {
+    color: #606060;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 1.8px;
+    text-transform: uppercase;
+    font-style: normal;
+    font-family: Georgia;
+    margin-bottom: 20px;
+}
+
+.wrap-cat__link {
+    font-size: 18px;
+    color: #303030;
+    font-style: italic;
+    font-family: "Georgia - Italic";
+    letter-spacing: 0.9px;
+    text-decoration: underline;
+}
+.product-box__cat{
+    margin-top: 65px;
+}
+
+.categories .category{
+    margin-bottom: 160px;
+}
+.categories .category:last-of-type{
+    margin-bottom: 40px;
+}
